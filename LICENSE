@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Greenskin44 (Krumpin’ Coda)
+Copyright (c) 2025 React Agent with LangChain RAG Implementation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Educational Disclaimer
+
+This project was created as part of Eden Marco's Udemy Course on LangChain and
+is intended for educational purposes. The original conceptual framework and
+educational approach are credited to Eden Marco (@emarco177).
+
+## Acknowledgments
+
+- Original educational content and methodology by Eden Marco
+- LangChain framework by the LangChain team
+- OpenAI API integration capabilities

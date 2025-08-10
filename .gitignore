@@ -1,0 +1,113 @@
+# React Agent with LangChain RAG Implementation - .gitignore
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv
+venv/
+ENV/
+env/
+.env
+
+# Pipenv
+Pipfile.lock
+
+# PyCharm
+.idea/
+*.swp
+*.swo
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.temp
+*_backup.py
+*_original.py
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files (for future RAG implementation)
+data/
+*.csv
+*.json
+*.xlsx
+*.parquet
+
+# Vector databases
+chroma_db/
+faiss_index/
+*.index
+
+# API keys and secrets (double protection)
+secrets/
+credentials/
+api_keys/
+*.key
+*.secret
+
+# Temporary files
+tmp/
+temp/
+
+# Documentation build
+docs/_build/
+site/
